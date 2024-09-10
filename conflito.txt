@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-pinto??
-=======
 pinto???
->>>>>>> branch-b
